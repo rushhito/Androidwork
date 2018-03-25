@@ -1,2 +1,2 @@
-﻿## LinearLayout  
-![Linear](https://raw.githubusercontent.com/rushhito/photos/master/LinearLayout.png)
+﻿## TableLayoutTest  
+![Table](https://raw.githubusercontent.com/rushhito/photos/master/TableLayout.png)
