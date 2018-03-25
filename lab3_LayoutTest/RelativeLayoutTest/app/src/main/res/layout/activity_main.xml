@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/blue"
+        android:text="Blue"
+        android:layout_centerInParent="true"
+        android:padding="20sp"
+        android:background="#0000FF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Green"
+        android:layout_toLeftOf="@id/blue"
+        android:layout_centerVertical="true"
+        android:padding="20sp"
+        android:layout_marginRight="20dp"
+        android:background="#00Ff00"
+        android:id="@+id/textView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Indigo"
+        android:layout_toRightOf="@id/blue"
+        android:layout_centerVertical="true"
+        android:padding="20sp"
+        android:layout_marginLeft="20dp"
+        android:background="#4a0084"
+        android:id="@+id/textView3" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Orange"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:padding="20sp"
+        android:background="#FFa600"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Red"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:padding="20sp"
+        android:background="#ff0000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="yellow"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:padding="20sp"
+        android:background="#ffff00"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignParentBottom="true"
+        android:background="#cc66cc"
+        android:gravity="center"
+        android:text="violet" />
+</RelativeLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One,one"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:text="One,two"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/button13"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="One,three"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One,four"
+            android:textAllCaps="false"/>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button21"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Two,one"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/button22"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:text="Two,two"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/button23"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Two,three"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Two,four"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal">
+
+         <Button
+             android:id="@+id/button31"
+             android:layout_width="109dp"
+             android:layout_height="wrap_content"
+             android:text="Three,one"
+             android:textAllCaps="false" />
+         <Button
+             android:id="@+id/button32"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Three,two"
+             android:textAllCaps="false"/>
+
+         <Button
+             android:id="@+id/button33"
+             android:layout_width="108dp"
+             android:layout_height="wrap_content"
+             android:text="Three,three"
+             android:textAllCaps="false" />
+
+         <Button
+             android:id="@+id/button34"
+             android:layout_width="104dp"
+             android:layout_height="wrap_content"
+             android:text="Three,four"
+             android:textAllCaps="false" />
+     </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Four,one"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/button42"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:text="Four,two"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/button43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Four,three"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/button44"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Four,four"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+</LinearLayout>
