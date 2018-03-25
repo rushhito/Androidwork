@@ -5,7 +5,7 @@
 
 |实验一                 |                        
 
-| helloworld            |[点击进入](https://github.com/rushhito/newworld) |  
+| helloworld            |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab1_helloworld) |  
 
 |实验三                |
 
