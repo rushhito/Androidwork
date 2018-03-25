@@ -1,2 +1,2 @@
-﻿## TableLayoutTest  
+﻿## TableLayout  
 ![Table](https://raw.githubusercontent.com/rushhito/photos/master/TableLayout.png)
