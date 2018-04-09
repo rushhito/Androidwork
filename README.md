@@ -17,4 +17,6 @@
 
 |实验四                |  
 
-|4.1ListViewTest        |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/ListView)|
+|4.1ListViewTest        |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/ListView)|  
+
+|4.2AlertDialogTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/AlertDialog)|
