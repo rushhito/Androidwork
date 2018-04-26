@@ -23,4 +23,6 @@
 
 |4.3MenuTest            |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/MenuTest)|  
 
+|4.4ActionMode          |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/ActionModeTest)|  
+
 
