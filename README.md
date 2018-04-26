@@ -25,4 +25,8 @@
 
 |4.4ActionMode          |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/ActionModeTest)|  
 
+|实验五                  |  
+
+|5 preferenceTest       |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab5_preference/PrefereceFragmentTest)|  
+
 
