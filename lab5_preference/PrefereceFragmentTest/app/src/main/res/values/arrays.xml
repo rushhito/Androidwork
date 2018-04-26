@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 01</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+
+    <string-array name="entryvalues_list_preference" >
+        <item>Alpha1</item>
+        <item>Beta2</item>
+        <item>Charlie3</item>
+    </string-array>
+</resources>
