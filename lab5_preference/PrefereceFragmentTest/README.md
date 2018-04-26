@@ -1,26 +1,19 @@
-# Androidwork
-实验作业  
+#### 主界面  
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference1.png)   
 
-|项目名称              |           链接         |  
+### Dialog-based preference   
 
-|实验一                 |                        
+##编辑文本对话框及列表文本框  
 
-| helloworld            |[点击进入](https://github.com/rushhito/newworld) |  
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference2.png)  
 
-|实验三                |
+##展示另一个页面及跳转到一个网页   
 
-|3.1LinearLayoutTest    |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab3_LayoutTest/LinearLayoutTest)|
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference3.png)   
 
-|3.2RelativeLayoutTest  |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab3_LayoutTest/RelativeLayoutTest)|  
+##父类复选框及子类复选框的使用  
 
-|3.3TableLayoutTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab3_LayoutTest/TableLayoutTest)|  
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference4.png)  
 
-|实验四                |  
-
-|4.1ListViewTest        |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/ListView)|  
-
-|4.2AlertDialogTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/AlertDialog)|  
-
-|4.3MenuTest            |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab4_UI/MenuTest)|  
 
 
