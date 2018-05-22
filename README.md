@@ -27,6 +27,13 @@
 
 |实验五                  |  
 
-|5 preferenceTest       |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab5_preference/PrefereceFragmentTest)|  
+|5 preferenceTest       |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab5_preference/PrefereceFragmentTest)|  
+
+
+|实验六                |  
+
+|6.1IntentTest        |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab6_Intentest/IntentTest)|  
+
+|6.2WebviewTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab6_Intentest/WebviewTest)|  
 
 
