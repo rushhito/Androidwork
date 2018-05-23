@@ -7,7 +7,11 @@
 
 | helloworld            |[点击进入](https://github.com/rushhito/newworld) |  
 
-|这个文件不是放在这个存储库里所以点列表进去是空得，你要点我这里的链接才进得去|
+|这个文件不是放在这个存储库里所以点列表进去是空得，你要点我这里的链接才进得去|  
+
+|实验二                |
+
+|2 activityTest  |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab2_activity/activityTest)|
 
 |实验三                |
 
