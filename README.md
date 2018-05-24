@@ -40,6 +40,8 @@
 
 |6.1IntentTest        |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab6_Intentest/IntentTest)|  
 
-|6.2WebviewTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab6_Intentest/WebviewTest)|  
+|6.2WebviewTest     |[点击进入](https://github.com/rushhito/Androidwork/tree/master/lab6_Intentest/WebviewTest)|   
 
+|期中实验          |
 
+|NotePad          |[点击进入](https://github.com/rushhito/Androidwork/tree/master/Midtest-Notepad/NotePadtest)| 
